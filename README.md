@@ -86,13 +86,23 @@ MONGO_URI=your_mongodb_connection_string
 ```
 ---
 
-📸 Screenshots
-Add UI screenshots here to show your frontend (optional but great for GitHub):
 
-swift
-Copy code
-/frontend/public/screenshots/homepage.png
-/frontend/public/screenshots/addnote.png
+## 🖼️ App Screenshots
+
+### 🏠 Homepage
+![Homepage](./screenshots/homepage.png)
+
+### ✍️ Note Editor
+![Note Editor](./screenshots/notedetail.png)
+
+### 📚 Notes Dashboard  
+![Notes Dashboard](./screenshots/notes.png)
+
+### ✅ Toast Notification  
+![Toast Notification](./screenshots/toast.png)
+
+### 🧾 Create Note Page  
+![Create Note](./screenshots/createpage.png)
 
 ---
 
