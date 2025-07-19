@@ -93,7 +93,7 @@ MONGO_URI=your_mongodb_connection_string
 ![Homepage](./screenshots/homepage.png)
 
 ### ✍️ Note Editor
-![Note Editor](./screenshots/notedetail.png)
+![Note Editor](./screenshots/notesdetail.png)
 
 ### 📚 Notes Dashboard  
 ![Notes Dashboard](./screenshots/notes.png)
