@@ -60,7 +60,7 @@ const CreatePage = () => {
                 </label>
                 <input type="text" placeholder='Note Title' className='input input-bordered' value={title} onChange={(e) =>setTitle(e.target.value)} />
               </div>
-              <div className='formc-control mb-b'>
+              <div className='form-control mb-b'>
                 <label className='label'>
                   <span className='label-text'>Content</span>
                 </label>
