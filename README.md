@@ -4,6 +4,8 @@
 
 > 🚀 **Live URL**: [https://thinknotes-onju.onrender.com](https://thinknotes-onju.onrender.com)
 
+⚠️ Note: This is a public demo. Anyone can add notes, so you may see random content.
+
 ---
 
 ## ✨ Features
